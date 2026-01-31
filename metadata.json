@@ -1,0 +1,5 @@
+{
+  "name": "TOT ! Admin RuleData Converter",
+  "description": "A specialized tool for Conan Exiles modders to convert item data into serialized TOT ! Admin ruledata strings with custom price calculations and GUID generation.",
+  "requestFramePermissions": []
+}
